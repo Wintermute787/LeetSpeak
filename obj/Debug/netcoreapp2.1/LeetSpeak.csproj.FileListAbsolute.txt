@@ -1,0 +1,11 @@
+C:\Users\Joe\Desktop\epicodus\LeetSpeak\LeetSpeak\obj\Debug\netcoreapp2.1\LeetSpeak.csprojAssemblyReference.cache
+C:\Users\Joe\Desktop\epicodus\LeetSpeak\LeetSpeak\obj\Debug\netcoreapp2.1\LeetSpeak.csproj.CoreCompileInputs.cache
+C:\Users\Joe\Desktop\epicodus\LeetSpeak\LeetSpeak\obj\Debug\netcoreapp2.1\LeetSpeak.AssemblyInfoInputs.cache
+C:\Users\Joe\Desktop\epicodus\LeetSpeak\LeetSpeak\obj\Debug\netcoreapp2.1\LeetSpeak.AssemblyInfo.cs
+C:\Users\Joe\Desktop\epicodus\LeetSpeak\LeetSpeak\bin\Debug\netcoreapp2.1\LeetSpeak.deps.json
+C:\Users\Joe\Desktop\epicodus\LeetSpeak\LeetSpeak\bin\Debug\netcoreapp2.1\LeetSpeak.runtimeconfig.json
+C:\Users\Joe\Desktop\epicodus\LeetSpeak\LeetSpeak\bin\Debug\netcoreapp2.1\LeetSpeak.runtimeconfig.dev.json
+C:\Users\Joe\Desktop\epicodus\LeetSpeak\LeetSpeak\bin\Debug\netcoreapp2.1\LeetSpeak.dll
+C:\Users\Joe\Desktop\epicodus\LeetSpeak\LeetSpeak\bin\Debug\netcoreapp2.1\LeetSpeak.pdb
+C:\Users\Joe\Desktop\epicodus\LeetSpeak\LeetSpeak\obj\Debug\netcoreapp2.1\LeetSpeak.dll
+C:\Users\Joe\Desktop\epicodus\LeetSpeak\LeetSpeak\obj\Debug\netcoreapp2.1\LeetSpeak.pdb
